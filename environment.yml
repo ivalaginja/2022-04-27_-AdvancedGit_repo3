@@ -9,5 +9,6 @@ dependencies:
   - pandas
   - pip
   - python=3.7
+  - scipy
   - pip:
       - poppy
