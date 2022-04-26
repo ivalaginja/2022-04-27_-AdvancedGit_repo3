@@ -1,6 +1,6 @@
 # Advanced Git for Astronomers part 3: working with several branches
 
-Welcome to **workflow 2** of the "Advanced Git for Astronomers" tutorial!
+Welcome to **workflow 3** of the "Advanced Git for Astronomers" tutorial!
 
 With this repository, we  will be learning how to manage several active branches at a time on a repository. We will 
 see how merge conflicts arise, how to solve them, and how to work in a way that tries to avoid them in the first place, 
