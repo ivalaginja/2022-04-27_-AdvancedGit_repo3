@@ -3,3 +3,5 @@
 .ipynb_checkpoints/
 .idea/
 .DS_Store
+
+fourier_transform_result.pdf
